@@ -17,11 +17,10 @@ Raw datasets were not included in this repository and can be downloaded directly
 - Beekeeper Studio (SQL client)
 
 # Project Structure
-sql/
-  01_create_table.sql
-  02_import_data.sql
-  03_clean_data.sql
-  04_analysis_queries.sql
+sql/        SQL scripts for data preparation and analysis
+outputs/    Visualisations generated from Tableau
+
+README.md   Project overview and findings
 
 outputs/   **(to be added)**
 
