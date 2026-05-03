@@ -94,3 +94,6 @@ Missing location data was excluded from spatial analysis to ensure results refle
 - The majority of cases resulted in “investigation complete; no suspect identified”, indicating a large proportion of unresolved incidents (4496)
 - A significant number of cases were also categorised as “unable to prosecute suspect” (1784)
 - Fewer cases progressed to court-related outcomes
+
+# Dashboard
+![Crime Dashboard](outputs/Dashboard_No_Filters.png)
