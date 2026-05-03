@@ -72,3 +72,25 @@ The analysis focused on:
 - Examining the distribution of crime types
 - Analysing outcome categories to understand how incidents are resolved
 Missing location data was excluded from spatial analysis to ensure results reflected real geographic areas.
+
+# Results
+
+## 1. Crime Trends Over Time
+- Crime levels remained relatively stable across the analysed period, with minor fluctuations month to month
+- A noticeable peak occurred in December 2025, suggesting a potential seasonal increase
+- Lower levels were observed in early 2026, particularly in February
+
+## 2. Common Crime Types
+- “Other theft” was the most frequently recorded offence, significantly higher than all other categories
+- Violent offences and shoplifting also accounted for a large proportion of reported crimes
+- Less common offences such as robbery and bicycle theft appeared at much lower frequencies
+
+## 3. Hotspots
+- Crime was highly concentrated in specific LSOA areas, particularly within the City of London regions
+- The top hotspot, City of London 001F, recorded significantly more incidents than all other areas (6604). This indicates a strong geographic concentration.
+- Other areas showed a sharp drop-off, suggesting crime is not evenly distributed
+
+## 4. Outcomes
+- The majority of cases resulted in “investigation complete; no suspect identified”, indicating a large proportion of unresolved incidents (4496)
+- A significant number of cases were also categorised as “unable to prosecute suspect” (1784)
+- Fewer cases progressed to court-related outcomes
