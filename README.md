@@ -22,11 +22,6 @@ outputs/    Visualisations generated from Tableau
 
 README.md   Project overview and findings
 
-outputs/   **(to be added)**
-
-LICENCE (MIT)
-README.md (This file)
-
 # Data Preparation
 
 A table was created using the CREATE TABLE query. The dataset was imported from multiple monthly CSV files provided by data.police.uk.
