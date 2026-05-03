@@ -18,6 +18,7 @@ Raw datasets were not included in this repository and can be downloaded directly
 
 # Project Structure
 sql/        SQL scripts for data preparation and analysis
+
 outputs/    Visualisations generated from Tableau
 
 README.md   Project overview and findings
