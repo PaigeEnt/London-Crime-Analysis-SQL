@@ -90,5 +90,26 @@ Missing location data was excluded from spatial analysis to ensure results refle
 - A significant number of cases were also categorised as “unable to prosecute suspect” (1784)
 - Fewer cases progressed to court-related outcomes
 
+# 🔍 Key Findings
+
+- Crime levels remained relatively stable across the year, with a noticeable peak in December 2025, suggesting a potential seasonal increase
+- “Other theft” and violent offences were the most common crime types, significantly outweighing other categories
+- Crime was highly concentrated in specific areas, particularly within City of London LSOAs, indicating strong geographic clustering
+- The majority of cases resulted in “investigation complete; no suspect identified”, highlighting a high proportion of unresolved incidents
+
+# 🧭 Recommendations
+
+- Increased policing or preventative measures may be beneficial in high-crime LSOA areas, particularly those consistently identified as hotspots  
+- Given the high proportion of cases resulting in "no suspect identified", further investment in investigative resources or intelligence-led policing strategies could improve case resolution rates  
+- Seasonal peaks, particularly around December, suggest a need for targeted policing strategies during high-demand periods  
+- The prevalence of theft-related offences indicates a potential benefit in focusing crime prevention initiatives on property and retail-related crimes
+
+# 🧠 Key Takeaways
+
+- Developed practical SQL skills working with real-world, imperfect data  
+- Gained experience cleaning and validating datasets before analysis  
+- Learned how to structure analysis around key questions rather than just queries  
+- Practised translating data into clear, actionable insights  
+
 # Dashboard
 ![Crime Dashboard](outputs/Dashboard_No_Filters.png)
